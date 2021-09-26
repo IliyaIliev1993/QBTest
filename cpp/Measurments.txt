@@ -1,0 +1,16 @@
+CPU - AMD Ryzen 5 3600 6-Core Processor 3.59 GHz
+===
+Original Modification Time:
+Profiler FIND Record: 0.0072705
+===
+Find, Delete Operation(std::vector):
+Profiler FIND Record: 0.0004648
+Profiler DELETE Record: 0.0010586
+TOTAL TIME OPERATIONS : 0.0015234
+===
+Find, Delete Operation(std::list):
+Profiler FIND Record: 0.0005636
+Profiler DELETE Record: 1.16e-05
+TOTAL TIME OPERATIONS : 0.0005752
+
+12.9x faster than original modification.

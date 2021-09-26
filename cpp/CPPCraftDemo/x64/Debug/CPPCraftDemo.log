@@ -1,0 +1,51 @@
+﻿  stdafx.cpp
+  CPPCraftDemo.cpp
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(15,10): error C3646: 'column0': unknown override specifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(15,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(31,86): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(31,86): error C2143: syntax error: missing ')' before ':'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(31,93): error C2059: syntax error: '&'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(32,5): error C2550: 'QBFindMatchingRecords': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(35,13): error C2065: 'columnName': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(36,13): error C2065: 'uint': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(36,18): error C2146: syntax error: missing ';' before identifier 'matchValue'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(36,18): error C2065: 'matchValue': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(36,42): error C2065: 'matchString': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(37,20): error C2065: 'matchValue': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(37,38): error C2039: 'column0': is not a member of 'QBRecord'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(13): message : see declaration of 'QBRecord'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(37,1): error C2039: '__this': is not a member of 'QBRecord'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(13): message : see declaration of 'QBRecord'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(38,20): error C2065: 'columnName': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(39,37): error C2065: 'matchString': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(40,20): error C2065: 'columnName': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(41,41): error C2065: 'matchString': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(42,1): error C3487: 'bool': all return expressions must deduce to the same type: previously it was 'void'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(42,13): error C3499: a lambda that has been specified to have a void return type cannot return a value
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(43,20): error C2065: 'columnName': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(44,37): error C2065: 'matchString': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(46,1): error C3487: 'bool': all return expressions must deduce to the same type: previously it was 'void'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(46,13): error C3499: a lambda that has been specified to have a void return type cannot return a value
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,10): error C2065: 'uint': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,15): error C2146: syntax error: missing ';' before identifier 'i'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,17): error C2143: syntax error: missing ';' before '='
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,17): error C2143: syntax error: missing ')' before '='
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,17): error C2059: syntax error: '='
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,22): error C2065: 'i': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,38): error C2065: 'i': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(61,41): error C2059: syntax error: ')'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,9): error C2275: 'QBRecord': illegal use of this type as an expression
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(13): message : see declaration of 'QBRecord'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,18): error C2146: syntax error: missing ')' before identifier 'rec'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,24): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,26): error C2065: 'i': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,53): error C2065: 'i': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,57): error C2065: 'i': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,81): error C2065: 'i': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(63,93): error C2143: syntax error: missing ';' before '}'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(64,27): error C2065: 'rec': undeclared identifier
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(66,5): error C2059: syntax error: 'return'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(67,5): error C2059: syntax error: '}'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(67,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(70,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Ichko\Documents\workspace\interview-demos\cpp\CPPCraftDemo\CPPCraftDemo.cpp(70,1): error C2447: '{': missing function header (old-style formal list?)
